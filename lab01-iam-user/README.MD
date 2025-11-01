@@ -28,9 +28,9 @@ Learn how AWS Identity and Access Management (IAM) handles users, groups, and po
 ---
 
 ## 📸 Screenshots
-Upload your screenshots here after adding them to an `/images` folder:
 
-```markdown
-![Jazzy User Creation](images/jazzy-user.png)
-![IAM Groups Overview](images/groups-overview.png)
-![Policy Attachment](images/policy-attachment.png)
+![IAM User Created](images/IAM_User_Created.png)  
+*User “Jazzy” created successfully in IAM.*
+
+![IAM Permissions](images/IAM_Permissions.png)  
+*Permissions overview showing attached group policies.*

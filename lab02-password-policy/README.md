@@ -32,10 +32,22 @@ Implement a password policy aligned with modern security standards and protect t
 ## Screenshots
 
 ![Password Policy Settings](images/password-policy-settings.png)  
-*Password policy configuration enforcing NIST requirements.*
+*Main password policy configuration enforcing NIST requirements.*
 
-![Password Reuse Configuration](images/password-reuse.png)  
-*Restriction preventing reuse of the last 10 passwords.*
+![Password Symbols Requirement](images/password-symbols.png)  
+*Requirement for at least one uppercase, lowercase, number, and special character.*
 
-![Root Account MFA Enabled](images/root-mfa-enabled.png)  
-*MFA successfully configured on the AWS root account.*
+![IAM Dashboard](images/iam-dashboard.png)  
+*IAM dashboard view after policy configuration.*
+
+![AWS Version Check](images/aws-version.png)  
+*AWS CLI version confirmation.*
+
+![MFA Setup Start](images/mfa-setup-start.png)  
+*Beginning MFA configuration for the AWS root account.*
+
+![MFA Setup](images/setup-mfa.png)  
+*MFA app installation and activation process.*
+
+![Completed AWS CMD](images/Completed_AWS_CMD.png)  
+*Command line confirmation showing MFA and password policy implemented successfully.*
